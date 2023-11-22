@@ -1,4 +1,4 @@
-# Welcome to Ecma Technical Committee 54
+# Ecma Technical Committee 54
 
 **Scope:**
 
