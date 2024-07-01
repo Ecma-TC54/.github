@@ -14,3 +14,11 @@ _This work intends not to use patents or if so then only royalty free patents. T
 |:-:|------|------|
 | TC54-TG1 | Package URL | <https://github.com/Ecma-TC54/tg1> |
 | TC54-TG2 | Transparency exchange API | <https://github.com/Ecma-TC54/tg2> |
+
+## Former Task Groups
+
+TGs which have accomplished their task.
+
+| # | Name | Repo | 
+|:-:|------|------|
+
