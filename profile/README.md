@@ -10,8 +10,8 @@ _This work intends not to use patents or if so then only royalty free patents. T
 
 ## Active Task Groups
 
-| # | Name | Repo | 
-|:-:|------|------|
+| # | Name | WorkSpace | 
+|:-:|------|-----------|
 | TC54-TG1 | Transparency Exchange API | <https://github.com/Ecma-TC54/tg1> |
 | TC54-TG2 | Package URL | <https://github.com/Ecma-TC54/tg2> |
 | TC54-TG3 | Common Lifecycle Enumeration | <https://github.com/Ecma-TC54/tg3> |
@@ -20,6 +20,6 @@ _This work intends not to use patents or if so then only royalty free patents. T
 
 TGs which have accomplished their task.
 
-| # | Name | Repo | 
-|:-:|------|------|
+| # | Name | WorkSpace | 
+|:-:|------|-----------|
 
