@@ -1,3 +1,5 @@
+![ecma international logo](../assets/ecma-header.svg)
+
 # Ecma Technical Committee 54
 
 ## Scope
